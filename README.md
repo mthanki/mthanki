@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mehul Thanki
 - 👀 I’m interested in anything web related
-- 🌱 I’m currently learning React
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/mehul-thanki/)
 
 <!---
